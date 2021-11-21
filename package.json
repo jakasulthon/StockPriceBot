@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chart.js": "^3.6.0",
+    "node-fetch": "^2.6.6",
+    "request": "^2.88.2",
+    "telegraf": "^4.4.2"
+  }
+}
